@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
 #about {
-  padding-top: 550px;
+  padding-top: 650px;
 }
 
 body {
@@ -28,10 +28,9 @@ button {
   border-bottom-right-radius: 45px;
 }
 
-/* #button {
-  border: 1px solid #000000;
+#button {
   border-radius: 10px;
-} */
+}
 
 .hanalei {
   font-family: 'Hanalei', cursive;
