@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanalei&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+#about {
+  padding-top: 550px;
+}
+
+body {
+  background-color: #26c6da;
+}
+
+blockquote {
+  border-left: 5px solid #000000;
+}
+
+button {
+  border-radius: 10px;
+}
+
+.card.teal.accent-2 {
+  border-radius: 45px;
+}
+
+#radius {
+  opacity: 0.9;
+  border-bottom-left-radius: 45px;
+  border-bottom-right-radius: 45px;
+}
+
+/* #button {
+  border: 1px solid #000000;
+  border-radius: 10px;
+} */
+
+.hanalei {
+  font-family: 'Hanalei', cursive;
+}
+
+.indie {
+  font-family: 'Indie Flower', cursive;
+}
+
+/* 
+.slider.fullscreen {
+  width: 100%;
+  height: auto;
+} */
+
+/* #icon-flex {
+  display: inline-flex;
+} */
+
+/* #card {
+  opacity: 0.8;
+} */
